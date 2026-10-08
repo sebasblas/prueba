@@ -1,0 +1,285 @@
+═══════════════════════════════════════════════════════════════════════════════
+              FIELDS FOR PUBLISHING ON AMAZON KDP
+              Copy and paste each value in order
+═══════════════════════════════════════════════════════════════════════════════
+
+Generated on: Monday, October 5, 2026
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 1: BOOK DETAILS                                                ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────────
+1. LANGUAGE
+   Location: Book details > Language
+   
+   ▶ COPY: English
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+2. TITLE
+   Location: Book details > Book title
+   
+   ▶ COPY: The Midnight Haunted Bookstore: Cozy Gothic Coloring Book
+   
+   ⚠️ Must match EXACTLY with the cover
+   
+   📋 AMAZON REQUIREMENT: The title in this field MUST be identical to the title on your cover file. Amazon will reject your book if these do not match exactly.
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+3. SUBTITLE (optional)
+   Location: Book details > Subtitle
+   
+   ▶ COPY: (No subtitle)
+   
+   💡 NOTE: Leave empty if your full title is already in the Title field above. Only add a subtitle here if you want additional text that is NOT on the cover.
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+4. SERIES (optional)
+   Location: Book details > Series
+   
+   ▶ COPY: (Not applicable - standalone book)
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+5. EDITION NUMBER
+   Location: Book details > Edition number
+   
+   ▶ COPY: 1
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+6. AUTHOR
+   Location: Book details > Author
+   
+   ▶ FIRST NAME: Joshua
+   ▶ LAST NAME: Blas
+   
+   Full name (as it will appear): Joshua Blas
+   
+   ⚠️ Name must match the cover
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+7. CONTRIBUTORS (optional)
+   Location: Book details > Contributors
+   
+   ▶ COPY: (No additional contributors)
+   
+   Roles: Editor, Illustrator, Translator, Foreword by, etc.
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+8. DESCRIPTION (max 4000 characters)
+   Location: Book details > Description
+   
+   ▶ COPY:
+<h4>What secrets does the bookstore hold after midnight?</h4><br><p>Step through a creaky door into a world where ghosts love to read and cats guard ancient shelves. The Midnight Haunted Bookstore: Cozy Gothic Coloring Book invites you into a gentle, spooky-sweet world made for relaxed, imaginative coloring.</p><br><p>Inside this collection of 25 páginas para colorear, you will wander through candlelit nooks, floating staircases, and secret book doors, bringing each cozy gothic scene to life with your own colors.</p><br><b>Discover:</b><ul><li>25 full-page illustrations with bold, clean outlines perfect for relaxed coloring</li><li>Friendly ghosts, curious cats, and whimsical librarians in every scene</li><li>Enchanted spaces like the Haunted Map Room, the Attic of Lost Stories, and the Moon Garden Balcony</li><li>A dreamy palette inspiration of dusty rose, midnight blue, and warm candle gold</li><li>A calming coloring journey from the bookstore entrance to a peaceful goodnight</li></ul><br><p>Perfect for fans of cozy gothic art and stress relief coloring art, this book offers a soothing escape into a world where every shelf has a story to whisper.</p><br><b>Grab your colored pencils and step into the midnight bookstore today.</b>
+
+   Characters: 1250/4000
+   
+   💡 You can use HTML: <b>, <i>, <br>, <h4>, <ul>, <li>
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+9. PUBLISHING RIGHTS
+   Location: Book details > Rights
+   
+   ▶ SELECT: I own the copyright and necessary publishing rights
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+10. TARGET AUDIENCE
+    Location: Book details > Target audience
+    
+    ▶ Explicit content?: No
+    ▶ Minimum age: No restriction
+    ▶ Maximum age: No restriction
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+11. PRIMARY MARKETPLACE
+    Location: Book details > Primary marketplace
+    
+    ▶ SELECT: Amazon.com (United States)
+    
+    Options: Amazon.com (USA), Amazon.co.uk (UK), Amazon.ca (Canada)
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+12. CATEGORIES (up to 3)
+    Location: Book details > Categories
+    
+    ▶ CATEGORY 1: Crafts, Hobbies & Home > Crafts & Hobbies > Coloring Books for Grown-Ups
+    ▶ CATEGORY 2: Humor & Entertainment > Puzzles & Games > Coloring Books
+    ▶ CATEGORY 3: Crafts, Hobbies & Home > Crafts & Hobbies > Fantasy Coloring Books
+    
+    💡 Choose specific categories with less competition
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+13. KEYWORDS (max 7)
+    Location: Book details > Keywords
+    
+    ▶ Keyword 1: haunted bookstore coloring pages
+    ▶ Keyword 2: cozy gothic coloring book
+    ▶ Keyword 3: ghost librarian coloring art
+    ▶ Keyword 4: candlelit reading nook coloring
+    ▶ Keyword 5: cat librarian coloring pages
+    ▶ Keyword 6: enchanted bookshop illustrations
+    ▶ Keyword 7: relaxing gothic coloring adults
+    
+    💡 Do not repeat words from the title
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+14. PUBLICATION DATE
+    Location: Book details > Release date
+    
+    ▶ COPY: 10/5/2026
+    
+    Book will be available 24-72 hours after approval
+────────────────────────────────────────────────────────────────────────────────
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 2: BOOK CONTENT                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────────
+15. ISBN
+    Location: Book content > ISBN
+    
+    ▶ SELECT: Request free KDP ISBN
+    
+    Options:
+    • Free KDP ISBN (Amazon only, recommended)
+    • Use your own ISBN
+    • No ISBN (ebooks only)
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+16. PRINT OPTIONS
+    Location: Book content > Print options
+    
+    ▶ INK AND PAPER: Premium color with white paper
+    ▶ SIZE: 6" x 9" (152 x 229 mm)
+    ▶ FINISH: Glossy
+    
+    ⚠️ These options are already configured in the included PDFs
+    
+    🚨 CRITICAL: You MUST select EXACTLY 6" x 9" (15.24 x 22.86 cm) as the trim size on Amazon KDP. Both the manuscript PDF and the cover PDF included in this package are generated specifically for this size. If you select a DIFFERENT trim size on Amazon, the cover will be REJECTED because the dimensions will not match. This is the most common cause of cover rejection errors.
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+17. UPLOAD FILES
+    Location: Book content
+    
+    ▶ Manuscript: Upload your interior PDF (downloaded separately via "Download PDF")
+    ▶ Cover: Upload "cover_fullwrap.pdf"
+    
+    ⚠️ The interior PDF is NOT included in this package. Download it separately.
+    
+    📐 COVER DIMENSIONS: The cover PDF in this package is formatted for 6" x 9" trim size with bleed (0.125" on each side). Before uploading the cover, verify that KDP shows the SAME expected dimensions. If KDP shows different expected dimensions, it means you selected the WRONG trim size — go back to step 16 and change it to 6" x 9".
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+18. AI-GENERATED CONTENT
+    Location: Book content > AI-generated content
+    
+    ▶ SELECT: ☑ Yes
+    
+    ⚠️ REQUIRED: This book was created with AI. Amazon REQUIRES disclosure.
+    Amazon may reject books that do not disclose AI usage.
+────────────────────────────────────────────────────────────────────────────────
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  SECTION 3: PRICING, ROYALTIES AND DISTRIBUTION 💰                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────────
+19. PRINTING COST (Calculated automatically)
+    
+    📊 YOUR BOOK DATA:
+    ▶ Estimated pages: 30 pages
+    ▶ Ink type: Premium color with white paper
+    
+    💵 PRINTING COST: $2.95 USD
+    
+    Formula: $0.85 + (30 pages × $0.07) = $2.95
+    
+    📖 Official source: https://kdp.amazon.com/es_ES/help/topic/G201834340
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+20. PRICING AND ROYALTIES TABLE
+    
+    ⚠️ Recommended minimum price: $4.92 USD
+    
+    ┌─────────────────────────────────────────────────────────────────────────────┐
+    │ PRICE      │ PRINTING      │ AMAZON 60%    │ YOUR ROYALTY  │ EXTENDED 40%  │
+    ├─────────────────────────────────────────────────────────────────────────────┤
+    │ $7.99    │ -$2.95      │ $4.79      │ = $1.84    │ $0.25      │
+    │ $9.99    │ -$2.95      │ $5.99      │ = $3.04    │ $1.05      │
+    │ $12.99   │ -$2.95      │ $7.79      │ = $4.84  ⭐│ $2.25      │
+    │ $14.99   │ -$2.95      │ $8.99      │ = $6.04    │ $3.05      │
+    │ $19.99   │ -$2.95      │ $11.99     │ = $9.04    │ $5.05      │
+    └─────────────────────────────────────────────────────────────────────────────┘
+    
+    ⭐ RECOMMENDED PRICE: $12.42 USD
+       Estimated royalty: ~$4.84 per sale (Amazon 60%)
+    
+    💡 With Amazon 60% you get better royalty but only sell on Amazon
+    💡 With Extended Distribution 40% you reach more stores but less royalty
+────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────
+21. SET PRICE ON KDP
+    Location: PRICING, ROYALTIES AND DISTRIBUTION
+    
+    ▶ LIST PRICE: $12.42 USD (or choose from the table)
+    ▶ MARKETPLACE: Amazon.com
+    ▶ DISTRIBUTION: ☑ Amazon (60%) 
+    
+    📌 TIP: Start with Amazon 60% and the recommended price.
+    You can adjust based on sales later.
+────────────────────────────────────────────────────────────────────────────────
+
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  FINAL CHECKLIST                                                              ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+Review each point before clicking "Publish":
+
+BOOK DETAILS:
+[ ] Language: English
+[ ] Title matches the cover
+[ ] Author name correct
+[ ] Attractive description without errors
+[ ] 2 relevant categories selected
+[ ] 7 optimized keywords
+
+BOOK CONTENT:
+[ ] 🚨 Trim size = 6" x 9" (MUST match, otherwise cover will be rejected)
+[ ] Interior PDF uploaded correctly
+[ ] Full-wrap cover PDF uploaded
+[ ] Print options correct
+[ ] Previewer verified (no errors)
+[ ] ⚠️ AI CONTENT DECLARED
+
+PRICING AND DISTRIBUTION:
+[ ] Printing cost: $2.95 USD
+[ ] List price set: $12.42 USD
+[ ] Expected royalty: ~$4.84 per sale
+[ ] Distribution territories selected
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                         READY TO PUBLISH! 📚
+        The book will be available on Amazon in 24-72 hours
+═══════════════════════════════════════════════════════════════════════════════
