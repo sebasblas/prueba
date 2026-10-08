@@ -1,0 +1,73 @@
+==============================================================================
+            FIELDS FOR PUBLISHING ON AMAZON KDP  -  PAPERBACK
+==============================================================================
+
+SECTION 1: BOOK DETAILS
+------------------------------------------------------------------------------
+1. Language ............ English
+2. Book title .......... Cozy Cryptids
+3. Subtitle ............ A Cute Spooky Coloring Book of Mothman, Bigfoot and Lake Monsters at Home
+   (Title + subtitle must match the cover exactly)
+4. Series .............. (none)
+5. Edition number ...... 1
+6. Author .............. First name: Joshua   Last name: Blas
+7. Contributors ........ (none)
+
+8. Description (HTML):
+<h4>Ever wondered what Bigfoot does on a rainy Sunday?</h4><br><p>He knits a scarf by the fire, of course. <b>Cozy Cryptids</b> takes the most famous creatures of folklore and invites them home: Mothman hangs fairy lights on the porch, Nessie sips tea in the middle of her lake, the Chupacabra naps in a quilted basket and the Jersey Devil runs a tiny forest coffee cart.</p><br><b>Inside you will find:</b><ul><li>30 original full-page coloring illustrations</li><li>Bold, clean outlines with large open areas, relaxing for adults and teens</li><li>Bigfoot, Mothman, Nessie, Yeti, Chupacabra, Jersey Devil, Thunderbird, Frogman and more</li><li>Hygge scenes: baking, gardening, reading, crafting, stargazing and tea parties</li><li>6 x 9 inch size, easy to carry and perfect for gifting</li></ul><br><p>A cute-creepy gift for fans of cryptozoology, cottagecore, cozy Halloween and anyone who believes the woods are friendlier than they look.</p><br><b>Grab your colored pencils and spend a cozy night in with the cryptids.</b>
+
+9. Publishing rights ... I own the copyright and I hold necessary publishing rights
+10. Primary audience ... Sexually explicit: No | Low-content book: No
+    Reading age: leave empty (adult coloring book)
+11. Primary marketplace  Amazon.com
+
+12. Categories (choose up to 3):
+    Category 1: Crafts, Hobbies & Home > Crafts & Hobbies > Coloring Books for Grown-Ups > Fantasy
+    Category 2: Humor & Entertainment > Puzzles & Games > Coloring Books
+    Category 3: Crafts, Hobbies & Home > Crafts & Hobbies > Coloring Books for Grown-Ups > Animals
+
+13. Keywords (7):
+    Keyword 1: bigfoot coloring book for adults
+    Keyword 2: mothman gifts cute
+    Keyword 3: cryptid coloring pages
+    Keyword 4: cottagecore coloring book
+    Keyword 5: cute creepy coloring book
+    Keyword 6: loch ness monster gifts
+    Keyword 7: cozy halloween coloring adults
+
+SECTION 2: PAPERBACK CONTENT
+------------------------------------------------------------------------------
+14. ISBN ............... Get a free KDP ISBN
+15. Publication date ... leave empty (= date you publish)
+16. Print options:
+    Ink and paper ...... Black & white interior with white paper
+    Trim size .......... 6" x 9"  (MUST be exactly this, or the cover is rejected)
+    Bleed settings ..... Bleed (PDF only)
+    Cover finish ....... Glossy
+17. Manuscript ......... output/interior.pdf  (34 pages)
+18. Book cover ......... "Upload a cover you already have" -> output/cover_fullwrap.pdf
+    Cover size ......... 12.327" x 9.250"  (spine 0.0766")
+    No spine text (KDP only allows it from 79 pages).
+19. AI-generated content: YES
+    Images: "Many AI-generated images with extensive editing" -> tool: Magnific (Seedream)
+    Text: "Some AI-generated sections" if you used AI for the description
+
+SECTION 3: PRICING (Amazon.com, 60% royalty)
+------------------------------------------------------------------------------
+    Printing cost: $2.30 (34 pages, black & white interior with white paper)
+    $7.99    | -$2.30 | 60% = $4.79 | ROYALTY = $2.49
+    $8.99    | -$2.30 | 60% = $5.39 | ROYALTY = $3.09
+    $9.99    | -$2.30 | 60% = $5.99 | ROYALTY = $3.69
+    $11.99   | -$2.30 | 60% = $7.19 | ROYALTY = $4.89
+    $12.99   | -$2.30 | 60% = $7.79 | ROYALTY = $5.49
+
+    Recommended list price: $8.99
+    Verify in KDP's calculator before publishing; rates can change.
+
+FINAL CHECKLIST
+------------------------------------------------------------------------------
+[ ] Trim size 6" x 9" with Bleed selected
+[ ] Interior PDF uploaded, previewer shows no errors
+[ ] Full-wrap cover uploaded, barcode area is clear (bottom-right of back)
+[ ] Title/subtitle/author identical to the cover
+[ ] AI content declared
