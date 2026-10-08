@@ -57,9 +57,14 @@ def register_fonts():
         pdfmetrics.registerFont(TTFont(n, str(FONTS / f"{n}.ttf")))
 
 
-def clean_lineart(path, box_w_px, box_h_px):
-    """Convierte el dibujo a lineas negras puras sobre blanco y lo ajusta a la caja."""
+def clean_lineart(path, box_w_px, box_h_px, crop=None):
+    """Convierte el dibujo a lineas negras puras sobre blanco y lo ajusta a la caja.
+
+    crop: (izq, arriba, der, abajo) en pixeles del original, para quitar un marco.
+    """
     im = Image.open(path).convert("L")
+    if crop:
+        im = im.crop(tuple(crop))
     scale = min(box_w_px / im.width, box_h_px / im.height)
     if abs(scale - 1) > 0.01:
         im = im.resize((round(im.width * scale), round(im.height * scale)), Image.LANCZOS)
@@ -92,7 +97,8 @@ def build_interior(book, folder, out):
     trim_w, trim_h = book["trim_in"]
     bleed = book["bleed_in"]
     pw, ph = (trim_w + bleed) * PT, (trim_h + 2 * bleed) * PT
-    c = canvas.Canvas(str(out), pagesize=(pw, ph))
+    # initialFontName evita que quede una referencia a Helvetica sin incrustar
+    c = canvas.Canvas(str(out), pagesize=(pw, ph), initialFontName="PatrickHand-Regular")
     c.setTitle(f"{book['title']}: {book['subtitle']}")
     c.setAuthor(f"{book['author_first']} {book['author_last']}")
     author = f"{book['author_first']} {book['author_last']}"
@@ -143,12 +149,13 @@ def build_interior(book, folder, out):
     box_w, box_h = pw - 2 * SAFE_IN * PT, ph - 2 * SAFE_IN * PT
     box_w_px, box_h_px = round(box_w / PT * DPI), round(box_h / PT * DPI)
     page_files = sorted((folder / "pages").glob("p*.png"))
-    n_scenes = len((folder / "scenes.txt").read_text().strip().splitlines())
+    n_scenes = len((folder / "scenes.txt").read_text(encoding="utf-8").strip().splitlines())
+    crops = book.get("page_crop", {})
     missing = []
     for i in range(1, n_scenes + 1):
         f = folder / "pages" / f"p{i:02d}.png"
         if f.exists():
-            im = clean_lineart(f, box_w_px, box_h_px)
+            im = clean_lineart(f, box_w_px, box_h_px, crops.get(str(i)))
             w, h = im.width / DPI * PT, im.height / DPI * PT
             c.drawImage(ImageReader(im), (pw - w) / 2, (ph - h) / 2, w, h)
         else:
@@ -375,12 +382,12 @@ FINAL CHECKLIST
 [ ] Title/subtitle/author identical to the cover
 [ ] AI content declared
 """
-    out.write_text(text)
+    out.write_text(text, encoding="utf-8", newline="\n")
 
 
 def main():
     folder = (ROOT / sys.argv[1]).resolve()
-    book = json.loads((folder / "book.json").read_text())
+    book = json.loads((folder / "book.json").read_text(encoding="utf-8"))
     out = folder / "output"
     out.mkdir(exist_ok=True)
     register_fonts()

@@ -8,6 +8,7 @@
   "trim_in": [6, 9],
   "bleed_in": 0.125,
   "paper": "white_bw",
+  "page_crop": {"5": [70, 78, 1774, 2698]},
   "cover_colors": {
     "title": "#FFE7B3",
     "title_outline": "#3B1F4A",
