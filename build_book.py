@@ -57,12 +57,18 @@ def register_fonts():
         pdfmetrics.registerFont(TTFont(n, str(FONTS / f"{n}.ttf")))
 
 
-def clean_lineart(path, box_w_px, box_h_px, crop=None):
+def clean_lineart(path, box_w_px, box_h_px, crop=None, degray=()):
     """Convierte el dibujo a lineas negras puras sobre blanco y lo ajusta a la caja.
 
     crop: (izq, arriba, der, abajo) en pixeles del original, para quitar un marco.
+    degray: cajas (izq, arriba, der, abajo) en fracciones 0-1 donde un relleno gris
+            se pasa a blanco y solo quedan las lineas oscuras.
     """
     im = Image.open(path).convert("L")
+    for fx0, fy0, fx1, fy1 in degray:
+        box = (int(fx0 * im.width), int(fy0 * im.height), int(fx1 * im.width), int(fy1 * im.height))
+        reg = im.crop(box).point(lambda v: 0 if v < 70 else 255)
+        im.paste(reg.filter(ImageFilter.GaussianBlur(0.6)), box)
     if crop:
         im = im.crop(tuple(crop))
     scale = min(box_w_px / im.width, box_h_px / im.height)
@@ -151,11 +157,12 @@ def build_interior(book, folder, out):
     page_files = sorted((folder / "pages").glob("p*.png"))
     n_scenes = len((folder / "scenes.txt").read_text(encoding="utf-8").strip().splitlines())
     crops = book.get("page_crop", {})
+    degray = book.get("page_degray", {})
     missing = []
     for i in range(1, n_scenes + 1):
         f = folder / "pages" / f"p{i:02d}.png"
         if f.exists():
-            im = clean_lineart(f, box_w_px, box_h_px, crops.get(str(i)))
+            im = clean_lineart(f, box_w_px, box_h_px, crops.get(str(i)), degray.get(str(i), ()))
             w, h = im.width / DPI * PT, im.height / DPI * PT
             c.drawImage(ImageReader(im), (pw - w) / 2, (ph - h) / 2, w, h)
         else:
